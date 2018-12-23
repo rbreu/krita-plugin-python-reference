@@ -1,2 +1,7 @@
-# krita-plugin-python-reference
-A Krita plugin that displays a searchable overview of the Python API
+# Krita Python Reference Plugin
+
+A Krita plugin that displays a searchable overview of the Python API.
+
+## Installation
+
+tbd
