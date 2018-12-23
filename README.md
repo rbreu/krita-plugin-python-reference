@@ -9,13 +9,11 @@ The reference is built at run time via Python's introspection abilities and henc
 
 ## Installation
 
-1. [Download the sourca as zip](https://github.com/rbreu/krita-plugin-python-reference/archive/master.zip)
-2. Unzip the file
-3. Go to your Krita resource folder and create the directories _actions_ and _pykrita_
-4. Copy the directory plugin/python_reference into the pykrita folder
-5. Copy the file plugin/python_reference.desktop into the pykrita folder
-6. Copy the file plugin/python_reference.action into the action folder
-7. Restart Krita
-8. Go to _Settings -> Configure Krita -> Python Plugin Manager_ and enable the Python Reference Plugin.
+1. [Download the source as zip](https://github.com/rbreu/krita-plugin-python-reference/archive/master.zip) and unzip it somewhere; the extracted _plugin_ folder is going to be the relevant one.
+2. Go to your Krita resource folder and create the directories _actions_ and _pykrita_.
+3. Copy the directory _plugin/python_reference_ and the file _plugin/python_reference.desktop_ into the _pykrita_ folder.
+4. Copy the file _plugin/python_reference.action_ into the _actions_ folder.
+5. Restart Krita.
+6. Go to _Settings -> Configure Krita -> Python Plugin Manager_ and enable the Python Reference Plugin.
 
 You should then be able to access the plugin via _Tools -> Scripts -> Python Reference_.
