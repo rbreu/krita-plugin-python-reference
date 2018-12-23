@@ -9,7 +9,7 @@ The reference is built at run time via Python's introspection abilities and henc
 
 ## Installation
 
-1. [Download the sourca as zip] (https://github.com/rbreu/krita-plugin-python-reference/archive/master.zip)
+1. [Download the sourca as zip](https://github.com/rbreu/krita-plugin-python-reference/archive/master.zip)
 2. Unzip the file
 3. Go to your Krita resource folder and create the directories _actions_ and _pykrita_
 4. Copy the directory plugin/python_reference into the pykrita folder
