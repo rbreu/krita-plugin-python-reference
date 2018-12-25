@@ -19,7 +19,7 @@ class PythonReferenceDialog(QDialog):
 
         super(PythonReferenceDialog, self).__init__(parent=parent)
         self.setModal(False)
-        self.setWindowTitle('Python Reference')
+        self.setWindowTitle('Python API Reference')
 
         # The general layout
         outer_layout = QVBoxLayout()

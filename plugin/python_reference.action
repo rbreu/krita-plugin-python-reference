@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ActionCollection version="2" name="Scripts">
     <Actions category="Scripts">
-      <text>Python Reference</text>
+      <text>Python API Reference</text>
 
       <Action name="python_reference">
         <icon></icon>
-        <text>Python Reference</text>
+        <text>Python API Reference</text>
         <whatsThis></whatsThis>
         <toolTip></toolTip>
         <iconText></iconText>

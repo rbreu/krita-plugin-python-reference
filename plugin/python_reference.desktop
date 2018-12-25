@@ -4,5 +4,5 @@ ServiceTypes=Krita/PythonPlugin
 X-KDE-Library=python_reference
 X-Python-2-Compatible=false
 X-Krita-Manual=manual.html
-Name=Python Reference
+Name=Python API Reference
 Comment=Displays a quick reference of the methods exposed via the Python API.

@@ -1,4 +1,4 @@
-# Krita Python Reference Plugin
+# Krita Python API Reference Plugin
 
 A Krita plugin that displays a searchable overview of the Python API.
 
@@ -14,6 +14,6 @@ The reference is built at run time via Python's introspection abilities and henc
 3. Copy the directory _plugin/python_reference_ and the file _plugin/python_reference.desktop_ into the _pykrita_ folder.
 4. Copy the file _plugin/python_reference.action_ into the _actions_ folder.
 5. Restart Krita.
-6. Go to _Settings -> Configure Krita -> Python Plugin Manager_ and enable the Python Reference Plugin.
+6. Go to _Settings -> Configure Krita -> Python Plugin Manager_ and enable the Python API Reference Plugin.
 
-You should then be able to access the plugin via _Tools -> Scripts -> Python Reference_.
+You should then be able to access the plugin via _Tools -> Scripts -> Python API Reference_.

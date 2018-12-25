@@ -14,7 +14,7 @@ class PythonReferenceExtension(krita.Extension):
 
     def createActions(self, window):
         action = window.createAction(
-            'python_reference', 'Python Reference', 'tools/scripts')
+            'python_reference', 'Python API Reference', 'tools/scripts')
         action.triggered.connect(self.python_reference)
 
     def python_reference(self):
